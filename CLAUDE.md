@@ -35,11 +35,11 @@ code and a name on the hub disagree, the hub is right; fix the code.
 ## The game
 
 This season's game is BIOBUZZ (2026-27). The official Competition Manual is in
-`docs/biobuzz-competition-manual.txt` (plain text of the PDF beside it). Read
+`team-docs/biobuzz-competition-manual.txt` (plain text of the PDF beside it). Read
 the relevant section before answering any question about scoring, field
 layout, autonomous, or whether a mechanism is legal. Do not answer those from
 memory; the rules change every season and the manual is revised by Team
-Updates during the season. `docs/README.md` says which version is on disk.
+Updates during the season. `team-docs/README.md` says which version is on disk.
 
 ## Starting, deploying, finishing
 

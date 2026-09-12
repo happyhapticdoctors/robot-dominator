@@ -1,4 +1,4 @@
-# docs
+# team-docs
 
 - `biobuzz-competition-manual.pdf` — the 2026-27 FTC Competition Manual for BIOBUZZ,
   version V1, downloaded 2026-09-12 from
