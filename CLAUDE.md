@@ -22,8 +22,9 @@ the student or from the code, update it here.
   `backRightMotor`. Left side is REVERSED, right side FORWARD, all set to BRAKE
   at zero power.
 - **Intake:** DC motor `intake` on the Expansion Hub, motor port 0, no encoder,
-  runs without encoder. It drives through a two-gear train, so the motor is
-  REVERSED to make positive power suck in.
+  runs without encoder, FLOAT at zero power so it coasts to a stop. It drives
+  through a two-gear train, so the motor is REVERSED to make positive power
+  suck in.
 - **Servos and sensors:** none yet.
 - **Control Hub:** reachable over Wi-Fi at `192.168.43.1:5555`.
 
